@@ -16,8 +16,7 @@ export const CardVisual = (props) => {
 const styles = StyleSheet.create({
   card: {
     padding: 20,
-    margin: 10,
-
+    marginVertical: 10,
     backgroundColor: "#FBF5DD",
     borderRadius: 8,
     shadowColor: "#000",

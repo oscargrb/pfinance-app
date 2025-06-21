@@ -112,7 +112,7 @@ const styles = StyleSheet.create({
     flex: 1,
     borderWidth: 0,
     borderRadius: 10,
-    padding: 5,
+    padding: 10,
     backgroundColor: "#A6CDC6",
   },
   paneOptionsContainer: {
@@ -120,7 +120,7 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "space-around",
     height: 50,
-    padding: 5,
+
     gap: 5,
     alignItems: "center",
   },

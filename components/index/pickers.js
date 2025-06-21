@@ -34,7 +34,7 @@ export const YearPicker = (props) => {
     >
       <Picker.Item label="2025" value={2025} />
       <Picker.Item label="2026" value={2026} />
-      <Picker.Item label="2026" value={2027} />
+      <Picker.Item label="2027" value={2027} />
     </Picker>
   );
 };
